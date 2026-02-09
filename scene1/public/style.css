@@ -32,3 +32,8 @@ canvas {
     background-color: #c51bb1;
     color: #eee;
 }
+
+#valentinesButton {
+  text-decoration: none;
+  display: inline-block;
+}
